@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">ERP Simples</h1>
-  <p>Projeto de CRUD (Adicionar, Ler, Atualizar e Deletar) para controlar usuários e estoque, integrado com banco de dados SQLite.</p>
+  <p>Projeto de CRUD (Adicionar, Ler, Atualizar e Deletar) para controlar informações de usuários e estoque, integrado com banco de dados SQLite.</p>
 
   ![erp](https://github.com/jrath29/erp-funcionarios-produtos/assets/108674777/f46f6fd7-b19e-4fa8-9ca9-7b64bc879d86)
 
